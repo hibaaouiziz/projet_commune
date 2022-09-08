@@ -1,0 +1,17 @@
+nav{
+    background-color: rgb(15, 107, 130);  
+}
+img{
+    position: absolute;
+    height: 100% ;
+    width: 100px ;
+    right: 10px;
+    top: 0;
+}
+.parag{ 
+    color: white;
+    position: relative;
+    left: 40px;
+    top: 10px;
+    font-size: 16px;
+}

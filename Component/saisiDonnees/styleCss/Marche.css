@@ -1,0 +1,17 @@
+label{
+    font-size : 18px;
+    font-family: Arial Black;
+}
+.suivant{
+    position : relative;
+    top : 0;
+    left : 400px;
+    height: 50px ;
+    width: 150px ;
+}
+.identification{
+    font-size: 28px;
+    font-family:'Times New Roman', Times, serif;
+    font-family: Arial Black  ;
+    font-variant-caps: small-caps;
+}

@@ -1,0 +1,77 @@
+section{
+    padding: 20px 100px;
+}
+.section1{
+    position: relative;
+}
+#titre{
+    position: relative;
+    top: 0px;
+    text-align: center;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    box-shadow: 0 5px 5px 5px rgba(0, 0, 0, 0.15);
+    font-variant-caps: small-caps;
+    font-family: Arial Black  ;
+}
+.div1{
+    background-color:rgb(236, 243, 244);
+    border-radius: 5px;
+    border: 0;
+    height: 350px;
+}
+#lab{
+    position: relative;
+    font-variant-caps: small-caps;
+    padding-top: 0px;
+    padding-left: 20px;
+    font-size: 35px;
+}
+.label{
+    position: relative;
+    padding-top: 10px;
+    padding-left: 70px;
+    font-size: 20px;
+    font-family: Arial Black  ;
+    font-variant-caps: small-caps;
+}
+#code{
+    position: absolute;
+    margin-left:200px;
+    padding-top: 0px;
+    height: 30px;
+    width: 200px;
+}
+#Utilisateur{
+    position: absolute;
+    margin-left:330px;
+    padding-top: 0px;
+    height: 30px;
+    width: 200px;
+}
+#password{
+    position: absolute;
+    margin-left:130px;
+    padding-top: 0px;
+    height: 30px;
+    width: 200px;
+}
+#submit{
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 20px;
+    
+    border: 0;
+    font-size:  18px;
+    height: 60px;
+    width: 200px;
+    font-variant-caps: small-caps;
+    background-color: rgb(15, 107, 130);
+    color: white;
+    border-radius: 30px;
+    transition: transform 0.3s ease;
+    transform: translate(12px,12px);
+    box-shadow: 0 5px 5px 5px rgba(0, 0, 0, 0.15);
+    
+
+}
